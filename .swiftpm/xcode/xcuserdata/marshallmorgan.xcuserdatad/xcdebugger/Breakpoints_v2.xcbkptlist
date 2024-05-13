@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D652F06-A0F6-4DCF-AF50-D03B565560DE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4EFB6A2-A963-4DC3-B8A3-BFDEBBBFF913"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E4EFB6A2-A963-4DC3-B8A3-BFDEBBBFF913 - d2e4fa8885e7e4ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Student_Challenge_v1.HomePageView.body.getter : some"
+                  moduleName = "Swift-Student-Challenge-v1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marshallmorgan/Desktop/Swift-Student-Challenge-v1.swiftpm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5">
+               </Location>
+               <Location
+                  uuid = "E4EFB6A2-A963-4DC3-B8A3-BFDEBBBFF913 - 79179b0c9bfc8a6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Swift_Student_Challenge_v1.HomePageView.body.getter : some"
+                  moduleName = "Swift-Student-Challenge-v1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marshallmorgan/Desktop/Swift-Student-Challenge-v1.swiftpm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+               <Location
+                  uuid = "E4EFB6A2-A963-4DC3-B8A3-BFDEBBBFF913 - 3b9ea33630bf9f77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Student_Challenge_v1.ClimateChangeInfo.body.getter : some"
+                  moduleName = "Swift-Student-Challenge-v1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marshallmorgan/Desktop/Swift-Student-Challenge-v1.swiftpm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+               <Location
+                  uuid = "E4EFB6A2-A963-4DC3-B8A3-BFDEBBBFF913 - 3b9ea33630bf9f77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Student_Challenge_v1.ClimateChangeInfo.body.getter : some"
+                  moduleName = "Swift-Student-Challenge-v1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marshallmorgan/Desktop/Swift-Student-Challenge-v1.swiftpm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+               <Location
+                  uuid = "E4EFB6A2-A963-4DC3-B8A3-BFDEBBBFF913 - 3b9ea33630bf9f77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Student_Challenge_v1.ClimateChangeInfo.body.getter : some"
+                  moduleName = "Swift-Student-Challenge-v1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marshallmorgan/Desktop/Swift-Student-Challenge-v1.swiftpm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B6575B5-F70A-40AE-BD39-F65354B32AA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

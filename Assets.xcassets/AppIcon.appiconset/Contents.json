@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "middlearth_custom-ba3816eaf0e0d7ba28b07b2cfba4d995f945762b-s1100-c50.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
